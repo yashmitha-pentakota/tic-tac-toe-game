@@ -1,4 +1,4 @@
-# tic-tac-toe-task-1
+# tic-tac-toe-game
 
 A simple implementation of the Tic Tac Toe game using Python.
 
